@@ -101,7 +101,7 @@ Follow the below steps to set up the project locally:
 
 Sanket Disale - [@sanketdisale871](https://www.linkedin.com/in/sanket-disale-32b195231/) - sanketdisale871@gmail.com
 Samarth Bura - [@samarth_bura](https://www.linkedin.com/in/samarthNV/) - samarthvbura@gmail.com
-Sanskruti Khedkar - [@samarth_bura](https://www.linkedin.com/in/samarthNV/) - samarthvbura@gmail.com
+Sanskruti Khedkar - [@sanskruti_khedkar](https://www.linkedin.com/in/samarthNV/) - sanskruti.khedkar21@vit.edu
 
 Project Link: [https://github.com/sanketdisale871/Squdron_AdobeGen.git](https://github.com/sanketdisale871/Squdron_AdobeGen.git)
 
