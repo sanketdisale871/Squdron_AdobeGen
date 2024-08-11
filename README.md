@@ -12,11 +12,11 @@
     This project aims to regularise, identify symmetricity and complete incomplete curves.
     <br />
     <br>
-    <a href="https://github.com/sanketdisale871/AdobeGenSolve_Squadron.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sanketdisale871/Squdron_AdobeGen.git"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/sanketdisale871/AdobeGenSolve_Squadron.git/issues">Report Bug</a>
+    <a href="https://github.com/sanketdisale871/Squdron_AdobeGen.git/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sanketdisale871/AdobeGenSolve_Squadron.git/issues">Request Feature</a>
+    <a href="https://github.com/sanketdisale871/Squdron_AdobeGen.git/issues">Request Feature</a>
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Follow the below steps to set up the project locally:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/sanketdisale871/AdobeGenSolve_Squadron.git.git
+   git clone https://github.com/sanketdisale871/Squdron_AdobeGen.git.git
    ```
 
 2. Change the directory:
@@ -103,6 +103,6 @@ Sanket Disale - [@sanketdisale871](https://www.linkedin.com/in/sanket-disale-32b
 Samarth Bura - [@samarth_bura](https://www.linkedin.com/in/samarthNV/) - samarthvbura@gmail.com
 Sanskruti Khedkar - [@samarth_bura](https://www.linkedin.com/in/samarthNV/) - samarthvbura@gmail.com
 
-Project Link: [https://github.com/sanketdisale871/AdobeGenSolve_Squadron.git](https://github.com/sanketdisale871/AdobeGenSolve_Squadron.git)
+Project Link: [https://github.com/sanketdisale871/Squdron_AdobeGen.git](https://github.com/sanketdisale871/Squdron_AdobeGen.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
